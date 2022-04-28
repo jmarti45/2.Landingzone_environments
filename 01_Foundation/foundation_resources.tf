@@ -2,7 +2,7 @@
 data "azurerm_client_config" "current" {}
 
 ##################################################
-# FOUNDATIONAL RESOURCES                         #
+# FOUNDATIONAL RESOURCES                        ##
 ##################################################
 
 #Create a Resource Group
