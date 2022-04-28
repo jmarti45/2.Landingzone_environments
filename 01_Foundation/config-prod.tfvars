@@ -1,5 +1,5 @@
-resource_group_name = "Demo-Inf-Prod-Rg"
-location            = "UKSouth"
+resource_group_name = "JMDPROD"
+location            = "westeurope"
 key_vault_name      = "Pwd9000-Inf-Prod-Kv"
 use_rbac_mode       = true
 tags = {

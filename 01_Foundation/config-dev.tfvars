@@ -1,5 +1,5 @@
-resource_group_name = "Demo-Inf-Dev-Rg"
-location            = "UKSouth"
+resource_group_name = "JMDDEV"
+location            = "westeurope"
 key_vault_name      = "Pwd9000-Inf-Dev-Kv"
 use_rbac_mode       = true
 tags = {
